@@ -1,5 +1,5 @@
 ---
-title: Homework 5 – Bigfoot Visualizations
+Sanidhya Ghatiya: Homework 5 – Bigfoot Visualizations
 ---
 
 # Homework 5: Bigfoot Sightings Visualized
