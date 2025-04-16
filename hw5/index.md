@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Homework 5 – Bigfoot Visualizations
 ---
 
